@@ -1,4 +1,4 @@
-# baaa_read me
+# BAAA_2020311531 / 김우식
 
 # Bigdata analytics and applications (GSI7656.01-00)
 Final Project
